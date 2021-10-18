@@ -63,5 +63,47 @@ every time you changed the code or you produced somthing new, check the unittest
 
 ### get the next task
 
+every time you are starting the next task, please create the new folder as task number
+
+[webstream main project folder]/[task number]/[webstream sourcode]
+
+put to the file:
+
+github.txt 
+
+the branch url in content
+
+
+load the sourcode over apicup commmands:
+
+    sh github clone
+
+check if work
+
+    sh test
+
+
+create sourceode changes and 
+
+    sh test
+
+if everything is OK, push on server
+
+    sh push
+  
+After you finish , please make a MR
+
+    sh github mr
+ 
+codereview
+
+After you finish I will check your code
+If everything will be correct I will merge
+
+if not I will write you some info
+
+
+
+
 
 
