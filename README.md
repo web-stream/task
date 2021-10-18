@@ -3,6 +3,22 @@
 
 ## How to start?
 
+### contact
+
+linkedin
+github
+slack
+email
+
+
+### payment
+
+after every 3hours meeting, where you create an solution for ticket,
+if it's not succesfully after 1h, we are changing scenario and we can try to change the task to smaller, to reach smaller goal.
+If you even that not reach the goal, we can start another topic, till you can stable growth with the tasks.
+
+
+
 ### learn it:
 
 + What is WebStream
