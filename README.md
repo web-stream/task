@@ -1,16 +1,19 @@
 # [The first Task](https://task.webstream.dev)
 
 
-### How to start?
+## How to start?
 
-learn it:
+### learn it:
 
 + What is WebStream
 + How to use it
 
 
-coding:
+### prepare environment:
 
+node js
+
+### prepare projects
 
 fork the source of webstream:
 
@@ -25,3 +28,10 @@ fork a examples:
 create your own repo on your username:
 
   webstream-examples
+
+
+### testing
+
+
+
+### coding
