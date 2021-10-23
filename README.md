@@ -148,7 +148,9 @@ Biblioteka bazująca na JS, bazująca na przeglądarce i działająca natywnie w
 + Frameworków - narzucają architekturę/strukturę projektu
 + Bibliotek poza tymi, które rozwiązują problem funkcjonalny
 
-## Zadania
+# Zadania
+
+## Zadanie 1
 + zmiana architektury na hipermodularną
   + każda klasa/funkcja to jeden plik .js
     + generowanie kodu końcowego jako zależność JSON w standardzie webstream:
@@ -172,11 +174,41 @@ Biblioteka bazująca na JS, bazująca na przeglądarce i działająca natywnie w
 
 Obecnie paczki kodu są generowanie za pocmoą skryptów bash
 
+## Zadanie 2
+
+Przetstowanie użycia JSON dla konfiguracji webstream, podczas ładowania strony, ekwalent target/jloads:
+```html
+<script type=application/ld+json>{
+    "//code.jquery.com/jquery-3.5.1.min.js": [
+        "//stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js",
+        "//stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    ]
+}</script>
+```
 
 
 
 ## Zasady pisania
 
++ natywny kod
++ pojedyncze funkcje
++ jedno rezpozytorium zawiera:
+  + plik dokumentacji: README.md
+  + plik konfiguracji (zależności w formacie webstream)
+  + plik kodu: nazwa_funkcji.js
+
+### Kod źródłowy
+Biblioteki/Funkcje podstawowe:
+
+    https://github.com/apifunc/js/tree/master/src
+
+Kod źródłowy Webstream:
+
+    https://github.com/web-stream/src
+
+Biblioteki Funkcje zewnętrzne potrzebne do renderowania, np MARKDOWN
+
+    https://revealjs.com/installation/#full-setup
 
 ### kompilowanie pojedynczej funkcji
 
