@@ -1,7 +1,7 @@
 # [The first Task](https://task.webstream.dev)
 
-
 ## How to start?
+
 
 ### contact
 
@@ -104,6 +104,48 @@ If everything will be correct I will merge
 
 if not I will write you some info
 
+
+# WebStream
+
+## Co to jest 
+Biblioteka bazująca na JS, bazująca na przeglądarce i działająca natywnie w przeglądarce
+
+## Nie używamy abstrakcji typu:
++ JS typowany - typescript, nie działa w przeglądarce, konieczna kompilacja, jedynie jako kod dodatkowy/źródłowy*
++ Frameworków - narzucają architekturę/strukturę projektu
++ Bibliotek poza tymi, które rozwiązują problem funkcjonalny
+
+## Zadania
++ zmiana architektury na hipermodularną
+  + każda klasa/funkcja to jeden plik .js
+  + każdy 
+
+
+# Devops
+
+Domena + dns + vps
+
++ dns
+    + cloduflare 
+      + API
+      + SSL
+      + Docker
+      + No Plesk
+    + digitalocean
+      + limit domen 100 ...
+      + plesk
+      + NO VERIFACTION, przypisana lifetime do jednej maszyny/client
+      + 
+    + własny hosting, ionos / NO API
+
+# Softreck.Cloud
+
+Marketplace providerów
+Integracja API providerów:
++ domen
++ serverów
+
+Udostepnianie usług
 
 
 
