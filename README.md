@@ -5,17 +5,49 @@
 
 ### contact
 
-+ linkedin
-+ github
++ discord dla **webstream**
+  + narzędzie do tworzenia społeczności
+  + tworzenie kanałów:
+    + support
+    + developerski
 + slack
++ github
 + email
++ linkedin
+
 
 ### Tools
++ Visual Studio
++ WebStorm
++ ...
+
 
 
 
 ### Tasks
 
+1. Uzgadniamy termin spotkania, przypomnienie, bot na discord, 
+   1. informacje kto co robi na projekcie ...
+2. Zaczynamy 3h sesję
+   1. Wybieramy narzędzia do współpracy, 
+      1. screen share, plugin do share-owania IDE,
+      2. discord/slack integration, dla omawiania kodu w IDE, podczas pisania
+      3. screen shot and chatting, jak jabber...
+   2. Obieramy kierunek, 1-3 zadania
+   
+### Sesja
+Kontakt 1. Pierwsza cześć spotkania na omówienie tematu
+Samodzielna praca: Pisanie rozwiązania
+Kontakt 2. Druga część, support/wyjaśnienia
+Samodzielna praca: zamykanie
+Kontakt 3. Koniec sesji
+
+### komunikacja
+Prowadzący sesję jest dostępny 30% czasu
+Wykonujący zadanie korzysta ze wsparcia prowadzącego podczas 3 kontaktów oraz dorywczo przy problemach, używając chat/screen share/..
+
+
+### ....
 after every 3hours meeting, where you create an solution for ticket,
 if it's not succesfully after 1h, we are changing scenario and we can try to change the task to smaller, to reach smaller goal.
 If you even that not reach the goal, we can start another topic, till you can stable growth with the tasks.
