@@ -186,6 +186,62 @@ Przetstowanie użycia JSON dla konfiguracji webstream, podczas ładowania strony
 }</script>
 ```
 
+## Zadanie 3
+
++ pisanie dokumentacji
++ Dla kogo?
+  + Dla Developera, który będzie rozwijał własną aplikację w oparciu o webstream
+    + czym jest 
+    + po co 
+    + dlaczego
+    + do czego jest podobna
+    + jak zacząć krok po kroku
+  + Organizacyjne
+    + gdzie zgłaszać feature, bug, itd
+    + kontakt z zespołem
+    + forum developerskie
+    + chat dla 
+  + Dla użytkownika, który będzie używał swoją stronę w oparciu o webstream
+    +  
++ punkty:
+
+
+## Zadanie 4
+
+Przykładowe rozwiązania
+tutorial
+jak w next.js
+
+
+## Zadanie 5
+
++ gitbook, stworzenie, praca nad
++ dodawanie
+
+## Zadanie 6
+
++ Dokumentacja dla Developera Webstream, który będzie rozwijał bibliotekę
+
+## Zadanie 7
+same newsy
+blog.webstream.dev - WP
+autoryzacja github
+
+
+## Zadanie 8
++ roadmap.webstream.dev
++ gotowa, API / SaaS
++ z opcją dodawania komentarzy/dodawanie propozycji i ocena, definiowanie priorytetów
+
+## Zadanie
+
+Organizacyjne dla Dokumentacji, Community
+jakie narzędzia do komunikacja?
++ gdzie zgłaszać feature, bug, itd
++ kontakt z zespołem
++ forum developerskie
++ chat dla
+
 
 
 ## Zasady pisania
