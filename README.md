@@ -142,6 +142,7 @@ if not I will write you some info
 ## Co to jest 
 Biblioteka bazująca na JS, bazująca na przeglądarce i działająca natywnie w przeglądarce
 
+
 ## Nie używamy abstrakcji typu:
 + JS typowany - typescript, nie działa w przeglądarce, konieczna kompilacja, jedynie jako kod dodatkowy/źródłowy*
 + Frameworków - narzucają architekturę/strukturę projektu
@@ -150,10 +151,67 @@ Biblioteka bazująca na JS, bazująca na przeglądarce i działająca natywnie w
 ## Zadania
 + zmiana architektury na hipermodularną
   + każda klasa/funkcja to jeden plik .js
-  + każdy 
+    + generowanie kodu końcowego jako zależność JSON w standardzie webstream:
+
+```json
+{
+  "meta.js": [
+    "user.txt",
+    "environment.txt"
+  ],
+  "core.js": [
+    "//github.com/apifunc/js/tree/master/src/each.js",
+    "//github.com/apifunc/js/tree/master/src/is-empty.js"
+  ],
+  "event.js": [
+    "include.js",
+    "load.js"
+  ]
+}
+```
+
+Obecnie paczki kodu są generowanie za pocmoą skryptów bash
 
 
-# Devops
+
+
+## Zasady pisania
+
+
+### kompilowanie pojedynczej funkcji
+
+
+### przygotowanie paczka webstream.min.js
+    
+    clone https://github.com/web-stream/build
+
+win
+
+    build-all.bat
+
+lx (todo)
+
+    build-all.sh
+    
+File [build-all.bat](https://github.com/web-stream/build/blob/main/build-all.bat)
+
+    type ".\src\meta\*.js" > .\jloads.js
+    type ".\src\core\*.js" >> .\jloads.js
+    type "..\apifunc-js\src\*.js" >> .\jloads.js
+    type ".\src\event\*.js" >> .\jloads.js
+    type ".\src\include\*.js" >> .\jloads.js
+    type ".\src\load\*.js" >> .\jloads.js
+    type ".\src\*.js" >> .\jloads.js
+    type ".\src\form\*.js" >> .\jloads.js
+    type ".\src\url\*.js" >> .\jloads.js
+    type ".\src\jloads\*.js" >> .\jloads.js
+    type ".\src\all\*.js" >> .\jloads.js
+    uglifyjs jloads.js -o jloads.min.js -c -m
+
+
+# Środowisko
+
+## Devops
 
 Domena + dns + vps
 
@@ -170,7 +228,9 @@ Domena + dns + vps
       + 
     + własny hosting, ionos / NO API
 
-# Softreck.Cloud
+# Komercjalizacja
+
+## Softreck.Cloud
 
 Marketplace providerów
 Integracja API providerów:
