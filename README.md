@@ -3,24 +3,18 @@
 ## How to start?
 
 
-### contact
 
-+ discord dla **webstream**
-  + narzędzie do tworzenia społeczności
-  + tworzenie kanałów:
-    + support
-    + developerski
-+ slack
-+ github
-+ email
-+ linkedin
+Jakich narzędzi używamy?
++ [tools.webstream.dev](https://tools.webstream.dev/#/)
 
+Kultura współ-pracy
++ [culture.softreck.dev](https://culture.softreck.dev/#/)
 
-### Tools
-+ Visual Studio
-+ WebStorm
-+ ...
+Twój zespół
++ [team.webstream.dev](https://team.webstream.dev/#/)
 
+Inne projekty do których możesz dołączyć i współtworzyć
++ [projects.softreck.dev](https://projects.softreck.dev/#/)
 
 
 
@@ -148,9 +142,10 @@ Biblioteka bazująca na JS, bazująca na przeglądarce i działająca natywnie w
 + Frameworków - narzucają architekturę/strukturę projektu
 + Bibliotek poza tymi, które rozwiązują problem funkcjonalny
 
-# Zadania
+# Task
 
-## Zadanie 1
+## Task 1, [Tom](https://github.com/orgs/web-stream/people/tom-sapletta-com)
+
 + zmiana architektury na hipermodularną
   + każda klasa/funkcja to jeden plik .js
     + generowanie kodu końcowego jako zależność JSON w standardzie webstream:
@@ -174,9 +169,11 @@ Biblioteka bazująca na JS, bazująca na przeglądarce i działająca natywnie w
 
 Obecnie paczki kodu są generowanie za pocmoą skryptów bash
 
-## Zadanie 2
+## Task.CustomerCode
 
-Przetstowanie użycia JSON dla konfiguracji webstream, podczas ładowania strony, ekwalent target/jloads:
+Przetestowanie użycia JSON dla konfiguracji webstream, podczas ładowania strony, ekwiwalent target/jloads
+zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadowana do DOM
+
 ```html
 <script type=application/ld+json>{
     "//code.jquery.com/jquery-3.5.1.min.js": [
@@ -186,7 +183,7 @@ Przetstowanie użycia JSON dla konfiguracji webstream, podczas ładowania strony
 }</script>
 ```
 
-## Zadanie 3
+## Task 3
 
 + pisanie dokumentacji
 + Dla kogo?
@@ -206,41 +203,70 @@ Przetstowanie użycia JSON dla konfiguracji webstream, podczas ładowania strony
 + punkty:
 
 
-## Zadanie 4
+## Task 4
 
 Przykładowe rozwiązania
 tutorial
 jak w next.js
 
 
-## Zadanie 5
+## Task 5 [pu0238](https://github.com/orgs/web-stream/people/pu0238)
 
 + gitbook, stworzenie, praca nad
 + dodawanie
 
-## Zadanie 6
+
+## Task 6
 
 + Dokumentacja dla Developera Webstream, który będzie rozwijał bibliotekę
 
-## Zadanie 7
+## Task 7
 same newsy
 blog.webstream.dev - WP
 autoryzacja github
 
 
-## Zadanie 8
-+ roadmap.webstream.dev
-+ gotowa, API / SaaS
-+ z opcją dodawania komentarzy/dodawanie propozycji i ocena, definiowanie priorytetów
+## Task 8
 
-## Zadanie
+# Task.Devops.1
 
 Organizacyjne dla Dokumentacji, Community
 jakie narzędzia do komunikacja?
 + gdzie zgłaszać feature, bug, itd
+
+
+
+
+## Task.Team
+
+@Contributor
+@Devops
+@Developer
+
+
+
+
+## Task.Communication
+```
+zadania związane z komunikacją w społeczności związanej z projektem, programistami, sponsorami, klientami używającymi rozwiązania
+```
+@Customer
++ support chat on website www.webstream.dev
+
+@Contributor
 + kontakt z zespołem
 + forum developerskie
-+ chat dla
++ chat
+
+
+## Task
+@Sponsor
+
++ roadmap.webstream.dev
++ gotowa, API / SaaS
++ z opcją dodawania komentarzy/dodawanie propozycji i ocena, definiowanie priorytetów
+
+
 
 
 
