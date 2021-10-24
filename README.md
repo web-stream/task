@@ -29,23 +29,31 @@ Biblioteka bazująca na JS, bazująca na przeglądarce i działająca natywnie w
    2. Obieramy kierunek, 1-3 zadania
    
 
-## Sesja
-### 1. Pierwsza cześć spotkania na omówienie tematu
+## Coding Session
+3 Parts of Session during 3h session,
+First Part to prepare and define todo's of Task, second to make it and after allthird part for the presentation and conversation about the next topics
+
+### Part 1
+spotkania na omówienie tematu
 Samodzielna praca: Pisanie rozwiązania
 
-### 2. Druga część, support/wyjaśnienia
+### Part 2
+support/wyjaśnienia
 Samodzielna praca: zamykanie
 
-### 3. Koniec sesji
+### Part 3
+Koniec sesji
+omówienie,
+wyznaczenie kolejnych celów
 Rozliczenie się
 
 
-## komunikacja
-Prowadzący sesję jest dostępny 30% czasu
+## Communication / komunikacja
+Prowadzący sesję jest dostępny maksymalnie 30% czasu live i reszta poprzez chat, tekstowo/screenshoots
 Wykonujący zadanie korzysta ze wsparcia prowadzącego podczas 3 kontaktów oraz dorywczo przy problemach, używając chat/screen share/..
 
 
-### ....
+## EN
 after every 3hours meeting, where you create an solution for ticket,
 if it's not succesfully after 1h, we are changing scenario and we can try to change the task to smaller, to reach smaller goal.
 If you even that not reach the goal, we can start another topic, till you can stable growth with the tasks.
@@ -55,8 +63,47 @@ I will help You in each step to be more efficient in each task of project.
 
 
 # Task
+Opisane zadania muszą być jasne dla wykonującej ją osobę,
+każde zadanie, które wymaga stworzenia nowego repozytorium powinno być najpierw opisane w pliku README.md
+Zadania już istniejące wymagają stworzenia Branch dla osoby jej wykonującej, nazwa branch to numer ticket + krótki opis
+Może zdarzyć się, że zadanie zostanie rozbite na mniejsze i kolejen branche będą zawierały te samą nazwę, ale kolejny numer ticket
+może się zdarzyć, że dwie lub więcej osób będzie wykonywało to samo zadanie, dlatego otrzymają kolejny numer ticket, gdyż nie mogą być dwie osoby przypisane do tego samego numeru zadania
 
-## Task 1, [Tom](https://github.com/orgs/web-stream/people/tom-sapletta-com)
+
+## Legend:
+
+### Task
++ Task No
++ Task Shortname
++ Task Tags
++ Task Description
++ Username:
+  + creating the task
+  + performing the task
+  + verifying, Code review
+
+### Role
+Role are necessary to be involved to the topic of ticket
+  + @Devops - can change a flow of SDLC
+  + @Dev - js,bash, developer
+  + @Admin - has Access to the Server, DNS, domains, github, ...
+  + @Provider - Can offer another Server, Cloud, ... 
+  + 
+
+### Technology Stack 
+```
+#js
+#bash
+```
+
+
+## Hipermodularity of Architecture, [Tom](https://github.com/orgs/web-stream/people/tom-sapletta-com)
+    @Admin #github #repo
+    @DevOps #bash #structure
+    @Dev #js
+
+
++ Refactoring
 
 + zmiana architektury na hipermodularną
   + każda klasa/funkcja to jeden plik .js
@@ -81,7 +128,7 @@ I will help You in each step to be more efficient in each task of project.
 
 Obecnie paczki kodu są generowanie za pocmoą skryptów bash
 
-## Task.CustomerCode
+## Task.CustomerConfig
 
 Przetestowanie użycia JSON dla konfiguracji webstream, podczas ładowania strony, ekwiwalent target/jloads
 zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadowana do DOM
