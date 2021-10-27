@@ -203,6 +203,20 @@ jakie narzędzia do komunikacja?
 @Developer
 
 
+## Task 9 
+
+unit test
+cypress
+do funkcji z 
+https://github.com/apifunc/js/tree/master/src
+
+które będa w osobnych repo
+1-1
+
+1 funckja
+1 unittest minimum
+(ewentualnie podłączenie do npm)
+
 
 
 ## Task.Communication
