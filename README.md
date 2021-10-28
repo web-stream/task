@@ -42,11 +42,138 @@ Role are necessary to be involved to the topic of ticket
   + @Provider - Can offer another Server, Cloud, ... 
   + 
 
-### Technology Stack 
+### Technology Stack
++ [stack.webstream.dev](https://stack.webstream.dev/#/)
+
 ```
 #js
 #bash
 ```
+
+
+
+
+
+
+
+# Community
+
+
+```
+zadania związane z komunikacją w społeczności związanej z projektem, programistami, sponsorami, klientami używającymi rozwiązania
+```
+@Customer
++ support chat on website www.webstream.dev
+
+@Contributor
++ kontakt z zespołem
++ forum developerskie
++ chat
+
+
+## Task 7
+same newsy
+blog.webstream.dev - WP
+autoryzacja github
+
+
+
+## Task.Team
+
+@Contributor
+@Devops
+@Developer
+
+
+
+# Dokumentacja
+
+
+## Task 5 [pu0238](https://github.com/orgs/web-stream/people/pu0238)
+
++ gitbook, stworzenie, praca nad
++ dodawanie
+
+## Task 6
+
++ Dokumentacja dla Developera Webstream, który będzie rozwijał bibliotekę
+
+
+## Task 3
+
++ pisanie dokumentacji
++ Dla kogo?
+  + Dla Developera, który będzie rozwijał własną aplikację w oparciu o webstream
+    + czym jest 
+    + po co 
+    + dlaczego
+    + do czego jest podobna
+    + jak zacząć krok po kroku
+  + Organizacyjne
+    + gdzie zgłaszać feature, bug, itd
+    + kontakt z zespołem
+    + forum developerskie
+    + chat dla 
+  + Dla użytkownika, który będzie używał swoją stronę w oparciu o webstream
+    +  
++ punkty:
+
+
+
+
+## Task
+@Sponsor
+
++ roadmap.webstream.dev
++ gotowa, API / SaaS
++ z opcją dodawania komentarzy/dodawanie propozycji i ocena, definiowanie priorytetów
+
+
+
+# Testowanie
+
+
+## Task 9, Bartek
+
+unit test
+cypress
+do funkcji z 
+https://github.com/apifunc/js/tree/master/src
+
+które będa w osobnych repo
+1-1
+
+1 funckja
+1 unittest minimum
+(ewentualnie podłączenie do npm)
+
+
+
+## Task 4
+
+Przykładowe rozwiązania
+tutorial
+jak w next.js
+
+
+
+# Funkcje:
+
++ ładowanie plików video
++ ładowanie markdown
++ plików xls
++ 
+
+
+# Rozszerzenia
+
++ plugind o przeglądarki 
++ dodawania kolejnych url
++ ładowanie gotowej spreparowanej strony z subdomeny user
++ 
+
+
+# Architektura
 
 
 ## Hipermodularity of Architecture, [Tom](https://github.com/orgs/web-stream/people/tom-sapletta-com)
@@ -94,49 +221,6 @@ zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadow
 }</script>
 ```
 
-## Task 3
-
-+ pisanie dokumentacji
-+ Dla kogo?
-  + Dla Developera, który będzie rozwijał własną aplikację w oparciu o webstream
-    + czym jest 
-    + po co 
-    + dlaczego
-    + do czego jest podobna
-    + jak zacząć krok po kroku
-  + Organizacyjne
-    + gdzie zgłaszać feature, bug, itd
-    + kontakt z zespołem
-    + forum developerskie
-    + chat dla 
-  + Dla użytkownika, który będzie używał swoją stronę w oparciu o webstream
-    +  
-+ punkty:
-
-
-## Task 4
-
-Przykładowe rozwiązania
-tutorial
-jak w next.js
-
-
-## Task 5 [pu0238](https://github.com/orgs/web-stream/people/pu0238)
-
-+ gitbook, stworzenie, praca nad
-+ dodawanie
-
-
-## Task 6
-
-+ Dokumentacja dla Developera Webstream, który będzie rozwijał bibliotekę
-
-## Task 7
-same newsy
-blog.webstream.dev - WP
-autoryzacja github
-
-
 ## Task 8
 
 # Task.Devops.1
@@ -145,51 +229,6 @@ Organizacyjne dla Dokumentacji, Community
 jakie narzędzia do komunikacja?
 + gdzie zgłaszać feature, bug, itd
 
-
-
-
-## Task.Team
-
-@Contributor
-@Devops
-@Developer
-
-
-## Task 9 
-
-unit test
-cypress
-do funkcji z 
-https://github.com/apifunc/js/tree/master/src
-
-które będa w osobnych repo
-1-1
-
-1 funckja
-1 unittest minimum
-(ewentualnie podłączenie do npm)
-
-
-
-## Task.Communication
-```
-zadania związane z komunikacją w społeczności związanej z projektem, programistami, sponsorami, klientami używającymi rozwiązania
-```
-@Customer
-+ support chat on website www.webstream.dev
-
-@Contributor
-+ kontakt z zespołem
-+ forum developerskie
-+ chat
-
-
-## Task
-@Sponsor
-
-+ roadmap.webstream.dev
-+ gotowa, API / SaaS
-+ z opcją dodawania komentarzy/dodawanie propozycji i ocena, definiowanie priorytetów
 
 
 
