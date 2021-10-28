@@ -1,12 +1,8 @@
 # [The first Task](https://task.webstream.dev)
 
-
-## Co to jest WebStream
-Biblioteka bazująca na JS, bazująca na przeglądarce i działająca natywnie w przeglądarce
-
-+ What is WebStream?
-+ How to use it?
-
+Zapoznaj się proszę z informacjami na temat biblioteki Web Stream Dev
+Jeśli znasz odpowiedzi na poniższe pytania, to możemy zacząć pierwsze zadania.
++ questions.webstream.dev
 
 ## More about WebStream
 + [about.webstream.dev](https://about.webstream.dev)
