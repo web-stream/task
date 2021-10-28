@@ -2,9 +2,11 @@
 
 Zapoznaj się proszę z informacjami na temat biblioteki Web Stream Dev
 Jeśli znasz odpowiedzi na poniższe pytania, to możemy zacząć pierwsze zadania.
-+ questions.webstream.dev
+
++ [questions.webstream.dev](https://questions.webstream.dev)
 
 ## More about WebStream
+
 + [about.webstream.dev](https://about.webstream.dev)
 
 
