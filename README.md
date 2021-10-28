@@ -57,7 +57,9 @@ Role are necessary to be involved to the topic of ticket
 
 
 # Community
-
+@Contributor
+@Devops
+@Developer
 
 ```
 zadania związane z komunikacją w społeczności związanej z projektem, programistami, sponsorami, klientami używającymi rozwiązania
@@ -71,42 +73,39 @@ zadania związane z komunikacją w społeczności związanej z projektem, progra
 + chat
 
 
-## Task 7
+## Task
 same newsy
 blog.webstream.dev - WP
 autoryzacja github
 
 
-
-## Task.Team
-
-@Contributor
-@Devops
-@Developer
+## Task 
+Organizacyjne dla Dokumentacji, Community
+jakie narzędzia do komunikacja?
++ gdzie zgłaszać feature, bug, itd
 
 
 
 # Dokumentacja
 
 
-## Task 5 [pu0238](https://github.com/orgs/web-stream/people/pu0238)
+## Task, [pu0238](https://github.com/orgs/web-stream/people/pu0238)
 
 + gitbook, stworzenie, praca nad
 + dodawanie
 
-## Task 4
+## Task
 
 Przykładowe rozwiązania
 tutorial
 jak w next.js
 
 
-## Task 6
+## Task
 
 + Dokumentacja dla Developera Webstream, który będzie rozwijał bibliotekę
 
-
-## Task 3
+## Task
 
 + pisanie dokumentacji
 + Dla kogo?
@@ -140,7 +139,7 @@ jak w next.js
 # Testowanie
 
 
-## Task 9, Bartek
+## Task, Bartek
 
 unit test
 cypress
@@ -192,6 +191,7 @@ zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadow
 
 
 # Architektura
+@Devops
 
 
 ## Hipermodularity of Architecture, [Tom](https://github.com/orgs/web-stream/people/tom-sapletta-com)
@@ -227,13 +227,10 @@ Obecnie paczki kodu są generowanie za pocmoą skryptów bash
 
 
 
-## Task 8
 
-# Task.Devops.1
+# Devops
 
-Organizacyjne dla Dokumentacji, Community
-jakie narzędzia do komunikacja?
-+ gdzie zgłaszać feature, bug, itd
+
 
 
 
