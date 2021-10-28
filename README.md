@@ -5,11 +5,6 @@ Jeśli znasz odpowiedzi na poniższe pytania, to możemy zacząć pierwsze zadan
 
 + [questions.webstream.dev](https://questions.webstream.dev)
 
-## More about WebStream
-
-+ [about.webstream.dev](https://about.webstream.dev)
-
-
 ## How to start the Contribution?
 
 # [start.webstream.dev](https://start.webstream.dev/)
