@@ -94,6 +94,13 @@ autoryzacja github
 + gitbook, stworzenie, praca nad
 + dodawanie
 
+## Task 4
+
+Przykładowe rozwiązania
+tutorial
+jak w next.js
+
+
 ## Task 6
 
 + Dokumentacja dla Developera Webstream, który będzie rozwijał bibliotekę
@@ -149,11 +156,20 @@ które będa w osobnych repo
 
 
 
-## Task 4
+## CustomerConfig
 
-Przykładowe rozwiązania
-tutorial
-jak w next.js
+Przetestowanie użycia JSON dla konfiguracji webstream, podczas ładowania strony, ekwiwalent target/jloads
+zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadowana do DOM
+
+```html
+<script type=application/ld+json>{
+    "//code.jquery.com/jquery-3.5.1.min.js": [
+        "//stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js",
+        "//stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    ]
+}</script>
+```
+
 
 
 
@@ -167,10 +183,12 @@ jak w next.js
 
 # Rozszerzenia
 
-+ plugind o przeglądarki 
++ plugin do przeglądarki 
++ wtyczka do wordpressa
 + dodawania kolejnych url
 + ładowanie gotowej spreparowanej strony z subdomeny user
 + 
+
 
 
 # Architektura
@@ -207,19 +225,7 @@ jak w next.js
 
 Obecnie paczki kodu są generowanie za pocmoą skryptów bash
 
-## Task.CustomerConfig
 
-Przetestowanie użycia JSON dla konfiguracji webstream, podczas ładowania strony, ekwiwalent target/jloads
-zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadowana do DOM
-
-```html
-<script type=application/ld+json>{
-    "//code.jquery.com/jquery-3.5.1.min.js": [
-        "//stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js",
-        "//stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-    ]
-}</script>
-```
 
 ## Task 8
 
