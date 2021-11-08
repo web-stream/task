@@ -24,6 +24,15 @@ do
     echo "# $ticket" >> "README.md"
     cat $ticket/description.md >> "README.md"
 
+    echo "---" > "$ticket/README.md"
+    estimation=$(cat $ticket/estimation.txt)
+    echo $estimation
+    echo "estimation: $estimation" >> "$ticket/README.md"
+    echo "---" >> "$ticket/README.md"
+    cat $ticket/description.md >> "$ticket/README.md"
+
+
+
     [ "$ACTION" = "export" ] && LINE="rm -rf $FOLDER_NAME"
     [ "$ACTION" = "import" ] && LINE="rm -rf $FOLDER_NAME"
     ## CREATE FOLDER for project with ticket number $ticket
