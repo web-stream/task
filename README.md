@@ -165,7 +165,13 @@ zadania związane z komunikacją w społeczności związanej z projektem, progra
 
 
 
-# 1
+# 10
+## Task
+same newsy
+blog.webstream.dev - WP
+autoryzacja github
+
+# 11
 ## Architektura
 @Devops
 
@@ -201,15 +207,12 @@ zadania związane z komunikacją w społeczności związanej z projektem, progra
 
 Obecnie paczki kodu są generowanie za pocmoą skryptów bash
 
-# 10
-## Task
-same newsy
-blog.webstream.dev - WP
-autoryzacja github
-
-# 2
+# 12
 # unit test
-cypress
+
++ cypress
++ jest
+
 do funkcji z
 https://github.com/apifunc/js/tree/master/src
 
@@ -219,7 +222,7 @@ które będa w osobnych repo
 1 funkcja
 1 unittest minimum
 (ewentualnie podłączenie do npm)
-# 3
+# 13
 ## CustomerConfig
 
 Przetestowanie użycia JSON dla konfiguracji webstream, podczas ładowania strony, ekwiwalent target/jloads
@@ -233,8 +236,8 @@ zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadow
     ]
 }</script>
 ```
-# 4
-## Task
+# 14
+## interaktywny roadmap
 
 @Sponsor
 
@@ -242,8 +245,8 @@ zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadow
 + gotowa, API / SaaS
 + z opcją dodawania komentarzy/dodawanie propozycji i ocena, definiowanie priorytetów
 
-# 5
-## Task
+# 15
+## Dokumentacja
 
 + pisanie dokumentacji
 + Dla kogo?
@@ -260,28 +263,28 @@ zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadow
         + chat dla
     + Dla użytkownika, który będzie używał swoją stronę w oparciu o webstream
         +
-+ punkty:
 
 
-# 6
 
-## Task
+# 16
+## Infos for Contributors
 
 + Dokumentacja dla Developera Webstream, który będzie rozwijał bibliotekę
 
-# 7
+# 17
 ## Task
 
 Przykładowe rozwiązania
 tutorial
 jak w next.js
 
-# 8
-## Task, [pu0238](https://github.com/orgs/web-stream/people/pu0238)
+# 18
+## Task
+[pu0238](https://github.com/orgs/web-stream/people/pu0238)
 
 + gitbook, stworzenie, praca nad
 + dodawanie
-# 9
+# 19
 ## Task
 Organizacyjne dla Dokumentacji, Community
 jakie narzędzia do komunikacja?

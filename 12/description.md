@@ -1,5 +1,8 @@
 # unit test
-cypress
+
++ cypress
++ jest
+
 do funkcji z
 https://github.com/apifunc/js/tree/master/src
 

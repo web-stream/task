@@ -1,4 +1,4 @@
-## Task
+## Dokumentacja
 
 + pisanie dokumentacji
 + Dla kogo?
@@ -15,6 +15,6 @@
         + chat dla
     + Dla użytkownika, który będzie używał swoją stronę w oparciu o webstream
         +
-+ punkty:
+
 
 

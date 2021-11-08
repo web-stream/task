@@ -8,8 +8,8 @@ USER=$(cat .github/.user)
 TOKEN=$(cat .github/.token)
 TICKETS=$(sh .task/list.sh)
 ## COLORS
-BLUE='\033[1;34m'
-RED='\033[1;35m'
+BLUE='\033[11;34m'
+RED='\033[11;35m'
 NC='\033[0m' # No Color
 ## START
 COUNTER=1
@@ -36,6 +36,9 @@ do
 done
 ##
 cat README_2.md >> "README.md"
+
+## TEST readme.md
+cat README.md
 
 ## DOCS
 # https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php
