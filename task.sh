@@ -21,7 +21,7 @@ do
     LINE="$COUNTER: $ticket"
     echo -e "${BLUE}$LINE${NC}"
     ##sh .task/details.sh $ticket description.md >> "README.md"
-    echo "# $ticket" >> "README.md"
+    echo "# [$ticket]($ticket/README.md) " >> "README.md"
     cat $ticket/description.md >> "README.md"
 
     echo "---" > "$ticket/README.md"

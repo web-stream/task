@@ -165,13 +165,13 @@ zadania związane z komunikacją w społeczności związanej z projektem, progra
 
 
 
-# 10
+# [10](10/README.md) 
 ## Task
 same newsy
 blog.webstream.dev - WP
 autoryzacja github
 
-# 11
+# [11](11/README.md) 
 ## Architektura
 @Devops
 
@@ -207,7 +207,7 @@ autoryzacja github
 
 Obecnie paczki kodu są generowanie za pocmoą skryptów bash
 
-# 12
+# [12](12/README.md) 
 # unit test
 
 + cypress
@@ -222,7 +222,7 @@ które będa w osobnych repo
 1 funkcja
 1 unittest minimum
 (ewentualnie podłączenie do npm)
-# 13
+# [13](13/README.md) 
 ## CustomerConfig
 
 Przetestowanie użycia JSON dla konfiguracji webstream, podczas ładowania strony, ekwiwalent target/jloads
@@ -236,7 +236,7 @@ zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadow
     ]
 }</script>
 ```
-# 14
+# [14](14/README.md) 
 ## interaktywny roadmap
 
 @Sponsor
@@ -245,7 +245,7 @@ zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadow
 + gotowa, API / SaaS
 + z opcją dodawania komentarzy/dodawanie propozycji i ocena, definiowanie priorytetów
 
-# 15
+# [15](15/README.md) 
 ## Dokumentacja
 
 + pisanie dokumentacji
@@ -266,26 +266,26 @@ zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadow
 
 
 
-# 16
+# [16](16/README.md) 
 ## Infos for Contributors
 
 + Dokumentacja dla Developera Webstream, który będzie rozwijał bibliotekę
 
-# 17
+# [17](17/README.md) 
 ## Task
 
 Przykładowe rozwiązania
 tutorial
 jak w next.js
 
-# 18
+# [18](18/README.md) 
 ## Task
 [pu0238](https://github.com/orgs/web-stream/people/pu0238)
 
 + gitbook, stworzenie, praca nad
 + dodawanie
 
-# 19
+# [19](19/README.md) 
 ## Komunikacja
 
 Organizacyjne dla Dokumentacji, Community
