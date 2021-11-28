@@ -128,22 +128,10 @@ zadania związane z komunikacją w społeczności związanej z projektem, progra
 + support chat on website www.webstream.dev
 
 @Contributor
+[team.webstream.dev](https://team.webstream.dev/#/)
 + kontakt z zespołem
 + forum developerskie
 + chat
-
-
-
-# Dokumentacja
-
-
-
-# Testowanie
-
-
-## Task, Bartek
-
-
 
 
 # Funkcje:

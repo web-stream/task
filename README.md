@@ -128,22 +128,10 @@ zadania związane z komunikacją w społeczności związanej z projektem, progra
 + support chat on website www.webstream.dev
 
 @Contributor
+[team.webstream.dev](https://team.webstream.dev/)
 + kontakt z zespołem
 + forum developerskie
 + chat
-
-
-
-# Dokumentacja
-
-
-
-# Testowanie
-
-
-## Task, Bartek
-
-
 
 
 # Funkcje:
@@ -166,12 +154,20 @@ zadania związane z komunikacją w społeczności związanej z projektem, progra
 
 
 # [10](10/README.md) 
+
+---
+estimation: 3h
+---
 ## Task
 same newsy
 blog.webstream.dev - WP
 autoryzacja github
 
 # [11](11/README.md) 
+
+---
+estimation: 3h
+---
 ## Architektura
 @Devops
 
@@ -208,6 +204,10 @@ autoryzacja github
 Obecnie paczki kodu są generowanie za pocmoą skryptów bash
 
 # [12](12/README.md) 
+
+---
+estimation: 3h
+---
 # unit test
 
 + cypress
@@ -223,6 +223,10 @@ które będa w osobnych repo
 1 unittest minimum
 (ewentualnie podłączenie do npm)
 # [13](13/README.md) 
+
+---
+estimation: 3h
+---
 ## CustomerConfig
 
 Przetestowanie użycia JSON dla konfiguracji webstream, podczas ładowania strony, ekwiwalent target/jloads
@@ -237,6 +241,10 @@ zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadow
 }</script>
 ```
 # [14](14/README.md) 
+
+---
+estimation: 3h
+---
 ## interaktywny roadmap
 
 @Sponsor
@@ -246,6 +254,10 @@ zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadow
 + z opcją dodawania komentarzy/dodawanie propozycji i ocena, definiowanie priorytetów
 
 # [15](15/README.md) 
+
+---
+estimation: 3h
+---
 ## Dokumentacja
 
 + pisanie dokumentacji
@@ -267,11 +279,19 @@ zamiast deklarowania funkcji ładowanie w locie, gdy biblitoeka będzie załadow
 
 
 # [16](16/README.md) 
+
+---
+estimation: 3h
+---
 ## Infos for Contributors
 
 + Dokumentacja dla Developera Webstream, który będzie rozwijał bibliotekę
 
 # [17](17/README.md) 
+
+---
+estimation: 3h
+---
 ## Task
 
 Przykładowe rozwiązania
@@ -279,6 +299,10 @@ tutorial
 jak w next.js
 
 # [18](18/README.md) 
+
+---
+estimation: 3h
+---
 ## Task
 [pu0238](https://github.com/orgs/web-stream/people/pu0238)
 
@@ -286,6 +310,10 @@ jak w next.js
 + dodawanie
 
 # [19](19/README.md) 
+
+---
+estimation: 3h
+---
 ## Komunikacja
 
 Organizacyjne dla Dokumentacji, Community
@@ -293,7 +321,10 @@ jakie narzędzia do komunikacja?
 + gdzie zgłaszać feature, bug, itd
 
 
+---
+How to build task documentation?
 
+    sh task.sh
 
 ---
 + [edit](https://github.com/web-stream/task/edit/main/README.md)
